@@ -1,0 +1,13 @@
+## Input and state 
+### React
+- create html 
+- add listener(no need to find element -> vanilaJS)
+- update UI
+- refresh automatically
+
+### jsx
+- class -> className
+- for -> htmlFor
+- syntheticBaseEVent
+ - 합성이벤트
+-> 가짜 event 발생 (native event 접근 가능)
